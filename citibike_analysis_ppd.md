@@ -30,9 +30,9 @@ As bikes become more plentiful on city streets, both drivers and nascent biker n
 Des Moines population density is 2.5/sq mile is not dense like NYC (70k/sq. mi)with multi-floor high-rise apartment buildings and commercial buildings. Even if a dock is placed at perfect intersection if more bikes are needed than available or if no vacant dock exists at the end of a ride, frustrations can mount for users. Major transit thoroughfares (non-highway) and bus routes may be viable options for residential dock stations to attract bus-commuters to start with. (6,7)
 
 #1: https://www.dsmpartnership.com/downtowndsmusa/growing-downtown/downtown-workforce <br>
-#2: https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,desmoinescityiowa/PST045219
-#3: https://www.catchdesmoines.com/things-to-do/
-#4: https://www.moneycrashers.com/bike-sharing-best-bike-share-programs/
-#5: http://www.bicycle-touring-guide.com/pros-cons-bike-shares/
-#6: https://www.washingtonpost.com/news/dr-gridlock/wp/2018/07/01/theft-and-destruction-of-dockless-bikes-a-growing-problem/?arc404=true
-#7 : https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,desmoinescityiowa/PST045219
+#2: https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,desmoinescityiowa/PST045219 <br>
+#3: https://www.catchdesmoines.com/things-to-do/ <br>
+#4: https://www.moneycrashers.com/bike-sharing-best-bike-share-programs/ <br>
+#5: http://www.bicycle-touring-guide.com/pros-cons-bike-shares/ <br>
+#6: https://www.washingtonpost.com/news/dr-gridlock/wp/2018/07/01/theft-and-destruction-of-dockless-bikes-a-growing-problem/?arc404=true <br>
+#7 : https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,desmoinescityiowa/PST045219 <br>
