@@ -16,7 +16,8 @@ Granted Des Moinesers lacks many of the traffic woes of a big dense city, but th
 
 ## Customers (versus Subscribers) can’t be ignored
 In NYC, nearly 80% of August rides were completed by Subscribers, who are people who have purchased a monthly/yearly pass. Customers are typically visitors who may only complete one or a few ride during a trip or a local who doesn’t envision using the bike share program that frequently. Regardless, the smaller population Customer is immensely valuable for several reasons. 
-### In many NYC locations, customer trips represent >80 of the activity (Central Park, High Line, World Trade Center). Des Moines may lack the volume of attractions as NYC, but placing bike racks at popular destinations such as Wells Fargo Arena, the Downtown Farmers Market, the Science Center and the Zoo (3) would provide attractive alternatives to another trip in a car and navigating a frustrating parking lot. 
+### In many NYC locations, customer trips represent >80 of the activity (Central Park, High Line, World Trade Center). 
+Des Moines may lack the volume of attractions as NYC, but placing bike racks at popular destinations such as Wells Fargo Arena, the Downtown Farmers Market, the Science Center and the Zoo (3) would provide attractive alternatives to another trip in a car and navigating a frustrating parking lot. 
 ### Bike Share programs are not limited to major Metros.
 While many people will experience their first bike share in Paris, London, NYC, Chicago, Washington DC, they are not limited to major metros. Visitors to those cities who have enjoyed a bike share are likely to be open to trying a bike share when spending time in Des Moines either as a local or a visitor. Furthermore, smaller cities like Chattanooga has witnessed success in their program despite having a smaller footprint and fewer attractions than cities like Atlanta, Charlotte or Nashville (4). 
 
@@ -28,7 +29,7 @@ As bikes become more plentiful on city streets, both drivers and nascent biker n
 ## Even perfect dock placement can be a challenge if there is a dramatic supply/demand imbalance
 Des Moines population density is 2.5/sq mile is not dense like NYC (70k/sq. mi)with multi-floor high-rise apartment buildings and commercial buildings. Even if a dock is placed at perfect intersection if more bikes are needed than available or if no vacant dock exists at the end of a ride, frustrations can mount for users. Major transit thoroughfares (non-highway) and bus routes may be viable options for residential dock stations to attract bus-commuters to start with. (6,7)
 
-#1: https://www.dsmpartnership.com/downtowndsmusa/growing-downtown/downtown-workforce
+#1: https://www.dsmpartnership.com/downtowndsmusa/growing-downtown/downtown-workforce <br>
 #2: https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,desmoinescityiowa/PST045219
 #3: https://www.catchdesmoines.com/things-to-do/
 #4: https://www.moneycrashers.com/bike-sharing-best-bike-share-programs/
